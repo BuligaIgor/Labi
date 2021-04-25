@@ -1,0 +1,20 @@
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\bin\Debug\oop_lab_3.exe.config
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\bin\Debug\oop_lab_3.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\bin\Debug\oop_lab_3.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.fMain.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.Properties.Resources.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.csproj.GenerateResource.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_3\obj\Debug\oop_lab_3.pdb
+C:\Users\грустный ёжик\Desktop\oop_lab_3\bin\Debug\oop_lab_3.exe.config
+C:\Users\грустный ёжик\Desktop\oop_lab_3\bin\Debug\oop_lab_3.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_3\bin\Debug\oop_lab_3.pdb
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.csprojAssemblyReference.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.fMain.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.Properties.Resources.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.csproj.GenerateResource.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_3\obj\Debug\oop_lab_3.pdb
