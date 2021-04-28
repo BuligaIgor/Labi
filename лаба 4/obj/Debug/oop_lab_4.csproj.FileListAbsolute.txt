@@ -1,0 +1,33 @@
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\bin\Debug\oop_lab_4.exe.config
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\bin\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\bin\Debug\oop_lab_4.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.fCPU.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.Properties.Resources.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.csproj.GenerateResource.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_8\obj\Debug\oop_lab_4.fMain.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\bin\Debug\oop_lab_4.exe.config
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\bin\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\bin\Debug\oop_lab_4.pdb
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.csprojAssemblyReference.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.fCPU.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.fMain.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.Properties.Resources.resources
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.csproj.GenerateResource.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.csproj.CoreCompileInputs.cache
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.exe
+D:\Makc\Desktop\Document\NAU God\visula st\oop_lab_4\obj\Debug\oop_lab_4.pdb
+C:\Users\грустный ёжик\Desktop\oop_lab_4\bin\Debug\oop_lab_4.exe.config
+C:\Users\грустный ёжик\Desktop\oop_lab_4\bin\Debug\oop_lab_4.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_4\bin\Debug\oop_lab_4.pdb
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.csprojAssemblyReference.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.fPC.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.fMain.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.Properties.Resources.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.csproj.GenerateResource.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.csproj.CoreCompileInputs.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_4\obj\Debug\oop_lab_4.pdb
