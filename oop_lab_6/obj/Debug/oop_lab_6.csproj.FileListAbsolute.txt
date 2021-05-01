@@ -1,0 +1,11 @@
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.csprojAssemblyReference.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.fMain.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.fPC.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.Properties.Resources.resources
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.csproj.GenerateResource.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.csproj.CoreCompileInputs.cache
+C:\Users\грустный ёжик\Desktop\oop_lab_6\bin\Debug\oop_lab_6.exe.config
+C:\Users\грустный ёжик\Desktop\oop_lab_6\bin\Debug\oop_lab_6.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_6\bin\Debug\oop_lab_6.pdb
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.exe
+C:\Users\грустный ёжик\Desktop\oop_lab_6\obj\Debug\oop_lab_6.pdb
